@@ -1,6 +1,18 @@
 - 👋 Hi, I'm @zabdielVR and this prototype project is called MyTeam tool development
 - 👀 This project provides a solution to portfolio projects to facilitate the different core layers of the business to administration, sales and IT
-- 🌱 This project is under construction...
+- 🌱 This project is under construction..
+- 💬 this project implements Scaled Agile Framework:
+
+- 💎 CALMR approach to agile development
+- Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
+
+- Automation: Difficult to quickly deliver high-quality products if you don't have automation to run tests and move code.
+
+- Lean Flow – Small batch size to drive production faster and create more visibility into the process.
+
+- Measure: Measure each step in the process to ensure that what is being built is achieving the established goals and benchmarks.
+
+- Recovery: Easier to recover because you take less risk by releasing in small batches and implementing automated tests.
 
 <!---
 zabdielVR/zabdielVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
