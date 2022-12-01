@@ -1,6 +1,6 @@
 - :open_file_folder:
 
-# 👋 Hi, I'm @zabdielVR and this prototype project is called MyTeam tool development
+## 👋 Hello this project is called MyTeam tool development
 
 - 👀 This project provides a solution to portfolio projects to facilitate the different core layers of the business to administration, sales and IT
 
