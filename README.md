@@ -7,12 +7,14 @@
 - 🌱 In this section you can see the objectives of this project...
 
   > Agile Development
-  > <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT1XGOGdyDrL2BTfxK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK">via GIPHY</a></p>
+  > 
+  > 💬 This project implements Scaled Agile Framework for agile development:
+  > 💎 CALMR approach to agile development
+  > Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
+  > ![](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT1XGOGdyDrL2BTfxK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK">via GIPHY</a></p>)
 
-- 💬 This project implements Scaled Agile Framework for agile development:
-
-- 💎 CALMR approach to agile development
-- Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
+- 
+- 
 
 - Automation: Difficult to quickly deliver high-quality products if you don't have automation to run tests and move code.
 
@@ -21,6 +23,8 @@
 - Measure: Measure each step in the process to ensure that what is being built is achieving the established goals and benchmarks.
 
 - Recovery: Easier to recover because you take less risk by releasing in small batches and implementing automated tests.
+
+- 
 
 - :orange_book: Kanban Board 
 - This project use Kanban Board for every iteration on the product and create a new subtask in case of new 
