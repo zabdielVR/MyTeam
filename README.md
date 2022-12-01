@@ -19,7 +19,6 @@
 
 - Recovery: Easier to recover because you take less risk by releasing in small batches and implementing automated tests.
 
-- 
 
 ### -:orange_book: Kanban Board 
 - This project use Kanban Board for every iteration on the product and create a new subtask in case of new 
