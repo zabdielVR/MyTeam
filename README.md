@@ -6,21 +6,11 @@
 
 - 🌱 In this section you can see the objectives of this project...
 
-  Agile Development
+  Agile Development 
    
-   💬 This project implements Scaled Agile Framework for agile development:
-  💎 CALMR approach to agile development
-  Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK
-
-</picture>
-
-
-![image](https://user-images.githubusercontent.com/80419469/205142031-2aae8331-fdf1-4d0d-b598-4c29619663b8.png)
-
-- 
-- 
+- 💬 This project implements Scaled Agile Framework for agile development:
+- 💎 CALMR approach to agile development
+- Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
 
 - Automation: Difficult to quickly deliver high-quality products if you don't have automation to run tests and move code.
 
