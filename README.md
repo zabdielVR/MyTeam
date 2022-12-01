@@ -1,12 +1,11 @@
 
-
 ## 👋 Hello this project is called MyTeam tool development
 
 - This project provides a solution to portfolio projects to facilitate the different core layers of the business to administration, sales and IT
 
 - 🌱 In this section you can see the objectives of this project...
 
-### -Agile Development 
+### - Agile Development 
    
 - 💬 This project implements Scaled Agile Framework for agile development:
 - 💎 CALMR approach to agile development
