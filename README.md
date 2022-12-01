@@ -12,11 +12,12 @@
   💎 CALMR approach to agile development
   Culture: The cultural shift is huge when it comes to Scaled Agile. Feedback should be provided on a constant basis, confirming that the features being     built match the needs. Create a shared responsibility for development across the entire team. The culture remains positive because the entire team is       committed to the final product.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://giphy.com/embed/xT1XGOGdyDrL2BTfxK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK">via GIPHY</a></p>
+  <source media="(prefers-color-scheme: dark)" srcset=https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK
 
 </picture>
 
 <iframe src="
+![image](https://user-images.githubusercontent.com/80419469/205142031-2aae8331-fdf1-4d0d-b598-4c29619663b8.png)
 
 - 
 - 
