@@ -7,6 +7,7 @@
 - 🌱 In this section you can see the objectives of this project...
 
   > Agile Development
+  <iframe src="https://giphy.com/embed/xT1XGOGdyDrL2BTfxK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-xT1XGOGdyDrL2BTfxK">via GIPHY</a></p>
 
 - 💬 This project implements Scaled Agile Framework for agile development:
 
