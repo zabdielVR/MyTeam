@@ -21,7 +21,7 @@
 
 - 
 
-- :orange_book: Kanban Board 
+### -:orange_book: Kanban Board 
 - This project use Kanban Board for every iteration on the product and create a new subtask in case of new 
 - [Product Iteration Kanban](https://github.com/users/zabdielVR/projects/3)
 - 
