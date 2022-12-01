@@ -24,7 +24,8 @@
 
 - :orange_book: Kanban Board 
 - This project use Kanban Board for every iteration on the product and create a new subtask in case of new 
-- https://github.com/users/zabdielVR/projects/3
+- [Product Iteration Kanban](https://github.com/users/zabdielVR/projects/3)
+- 
 
 <!---
 zabdielVR/zabdielVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
