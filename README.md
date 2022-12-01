@@ -1,4 +1,4 @@
-- :open_file_folder:
+
 
 ## 👋 Hello this project is called MyTeam tool development
 
