@@ -6,7 +6,7 @@
 
 - 🌱 In this section you can see the objectives of this project...
 
-  ###Agile Development 
+### Agile Development 
    
 - 💬 This project implements Scaled Agile Framework for agile development:
 - 💎 CALMR approach to agile development
