@@ -32,6 +32,10 @@
 - This product uses a VPC AWS
 - [Test VPC Terraform](https://github.com/zabdielVR/MyTeam/blob/main/Terraform/Create_AWS_VPC.tf)
 
+## -:orange_book: CI & CD
+
+- This product uses Docker and Jenkins
+- [Test Jenkins File](https://github.com/zabdielVR/MyTeam/tree/main/Docker)
 
 
 <!---
