@@ -23,11 +23,11 @@
 ### -:orange_book: Kanban Board 
 - This project use Kanban Board for every iteration on the product and create a new subtask in case of new 
 - [Product Iteration Kanban](https://github.com/users/zabdielVR/projects/3)
-- 
+-
 
 ### -:orange_book: Testing Layers
--This product uses the core Junit for test the code to expect the inputs and outputs
--[Test example](https://github.com/zabdielVR/MyTeam/blob/main/Junit/Test/src/test/java/org/Testing/Accounts/AccountsTest.java)
+- This product uses the core Junit for test the code to expect the inputs and outputs
+- [Test example](https://github.com/zabdielVR/MyTeam/blob/main/Junit/Test/src/test/java/org/Testing/Accounts/AccountsTest.java)
 
 <!---
 zabdielVR/zabdielVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
