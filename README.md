@@ -5,7 +5,7 @@
 
 - 🌱 In this section you can see the objectives of this project...
 
-### -:orange_book: Agile Development 
+### -:orange_book: Agile Development Principles
    
 - 💬 This project implements Scaled Agile Framework for agile development:
 - 💎 CALMR approach to agile development
