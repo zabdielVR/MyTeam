@@ -39,7 +39,6 @@
 
 ## -:orange_book: Java Backend V1 API REST
 
-- This product uses Docker and Jenkins
 - [Java Files](https://github.com/zabdielVR/MyTeam/tree/main/Java%20Backend/myProduct/src/main/java/org/mycompany/myproduct)
 
 <!---
