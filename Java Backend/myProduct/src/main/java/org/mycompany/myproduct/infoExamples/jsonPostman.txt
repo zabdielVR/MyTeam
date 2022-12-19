@@ -1,0 +1,44 @@
+Request para realizar pruebas en Postman
+
+
+ {
+        "id": 9,
+        "projectIDaudit": "MEX2345GHF",
+        "projectName": "for example",
+        "descriptionProject": "TEST",
+        "priority": "LOW",
+        "workflow": "READY",
+        "dateStart": "2021-12-12",
+        "dateEnd": "2022-12-12",
+        "dateUpdate": "2021-05-15"
+    }
+
+    {
+            "id": 3,
+            "projectIDaudit": "MEX2345GHF",
+            "projectName": "ttexto ",
+            "descriptionProject": "TEST",
+            "priority": "LOW",
+            "workflow": "READY",
+            "dateStart": "2021-12-12",
+            "dateEnd": "2022-12-12",
+            "dateUpdate": "2021-05-15"
+        }
+
+        Endpoints
+
+        listar
+
+        http://localhost:8080/MyTeam/api/allProjects
+
+        crear
+
+        http://localhost:8080/MyTeam/api/projects
+
+        Editar
+
+        http://localhost:8080/MyTeam/api/projects/3
+
+        Eliminar
+
+        http://localhost:8080/MyTeam/api/deleteProject/3
